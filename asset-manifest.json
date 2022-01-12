@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/https//neofirst.github.io/publishTest/static/css/main.e6c13ad2.css",
-    "main.js": "/https//neofirst.github.io/publishTest/static/js/main.e0052661.js",
+    "main.js": "/https//neofirst.github.io/publishTest/static/js/main.966df08a.js",
     "static/js/787.949a8b7c.chunk.js": "/https//neofirst.github.io/publishTest/static/js/787.949a8b7c.chunk.js",
     "index.html": "/https//neofirst.github.io/publishTest/index.html",
     "main.e6c13ad2.css.map": "/https//neofirst.github.io/publishTest/static/css/main.e6c13ad2.css.map",
-    "main.e0052661.js.map": "/https//neofirst.github.io/publishTest/static/js/main.e0052661.js.map",
+    "main.966df08a.js.map": "/https//neofirst.github.io/publishTest/static/js/main.966df08a.js.map",
     "787.949a8b7c.chunk.js.map": "/https//neofirst.github.io/publishTest/static/js/787.949a8b7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e0052661.js"
+    "static/js/main.966df08a.js"
   ]
 }
